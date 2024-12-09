@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @3BdulRa7man1
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning front-end devolpment
+- 🌱 I’m currently learning front-end devolpment (actually I was, as this was in 2018)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : contact abdo2811t@gmail.com
 - instagram : 3bdulra7man_Tayel.
